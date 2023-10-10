@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+}
+h1{
+    color: white;
+font-family: 'Libre Baskerville', serif;
+text-align: center;
+text-transform:uppercase
+}
+img{
+    border: 5px solid white;
+    }
+#atleti{
+    margin-top: 100px;
+    text-align: center;
+}
+p{
+    color: white;
+font-family: 'Libre Baskerville', serif;
+text-align: center;
+}
